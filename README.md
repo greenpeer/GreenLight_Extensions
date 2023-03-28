@@ -1,7 +1,5 @@
 # GreenLight_Extensions
-Extensions for
-# GreenLight_Extensions Repository
-This repository contains extensions for the  [GreenLight - A model for greenhouses with supplemental lighting](#https://github.com/davkat1/GreenLight) , including `setXParam` and `glObjToJson`.
+Extensions for the  [GreenLight - A model for greenhouses with supplemental lighting](#https://github.com/davkat1/GreenLight) , including `setXParam` and `glObjToJson`.
 
 ## Table of Contents 
 - [Installation](#installation) 
