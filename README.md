@@ -1,5 +1,5 @@
 # GreenLight_Extensions
-Extensions for the  [GreenLight - A model for greenhouses with supplemental lighting](#https://github.com/davkat1/GreenLight) , including `setXParam` and `glObjToJson`.
+Matlab extensions for the  [GreenLight - A model for greenhouses with supplemental lighting](#https://github.com/davkat1/GreenLight) , including `setXParam` and `glObjToJson`.
 
 ## Table of Contents 
 - [Installation](#installation) 
