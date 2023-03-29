@@ -48,7 +48,7 @@ To convert this `gl` object to a JSON string, simply call the `glObjToJson` func
 json_data = glObjToJson(gl)
 ```
 
-The sample resulting JSON string `json_str` will be:
+The sample resulting JSON string `json_data` will be:
 
 ```json
 {
